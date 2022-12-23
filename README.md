@@ -3,4 +3,4 @@ Deep Learning
 
 
 
-{}!(https://github.com/BALAJIHARIDASAN/Deep-Learning/blob/main/dl.gif)
+[]!(https://github.com/BALAJIHARIDASAN/Deep-Learning/blob/main/dl.gif)

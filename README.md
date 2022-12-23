@@ -21,3 +21,4 @@ Knowledge is acquired by the network through a learning process
 Interneuron connection strengths, known as synaptic weights, are used to store the acquired knowledge
 
 <img src="https://firebasestorage.googleapis.com/v0/b/deep-learning-crash-course.appspot.com/o/3MLExample.png?alt=media&token=153c3e16-5f9b-4fb9-a47e-b348b976262b" width="700" align="center"/>
+

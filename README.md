@@ -6,7 +6,7 @@
 ![](https://github.com/BALAJIHARIDASAN/Deep-Learning/blob/main/dl.gif)
 
 
-** Neural Network **
+**Neural Network**
 
 A neural network is a massively parallel distributed processor (network) made up of simple processing units (neurons). It has a natural propensity for:
 

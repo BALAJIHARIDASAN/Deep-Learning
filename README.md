@@ -6,7 +6,7 @@
 ![](https://github.com/BALAJIHARIDASAN/Deep-Learning/blob/main/dl.gif)
 
 
-**Neural Network**
+**Neural Networks**
 
 **Deep learning** 
 
